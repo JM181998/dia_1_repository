@@ -1,0 +1,7 @@
+numpy
+seaborn
+pandas
+keras
+tensorflow
+folium
+scikit-learng
