@@ -1,7 +1,3 @@
-numpy
-seaborn
-pandas
-keras
-tensorflow
-folium
-scikit-learng
+streamlit
+plotly
+scikit-learn
